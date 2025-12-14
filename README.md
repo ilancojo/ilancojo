@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ilan 👋
 
-<!--
-**ilancojo/ilancojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student exploring backend development and data-driven projects.  
+I build systems using C#, Python, SQL, and JavaScript, and enjoy writing clean, structured code.
 
-Here are some ideas to get you started:
+Here you'll find a mix of:
+- Web development projects (ASP.NET, JS, HTML/CSS)
+- Python scripts for data analysis and automation
+- Coursework-based algorithm and data structure exercises
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, always improving.
+
+🔗 LinkedIn:https://linkedin.com/in/ilan-cojocaru
+📫 Reach me at: ilann.cojo@gmail.com
